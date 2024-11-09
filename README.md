@@ -19,21 +19,6 @@ O projeto é composto por uma estrutura de página com informações sobre o mov
 - **css/**: Diretório de saída dos arquivos `.scss`, contendo o arquivo final `style.css`.
 - **img/**: Diretório com as imagens utilizadas na página.
 
-## ⚙️ Configuração do Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/outubro-rosa.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd outubro-rosa
-   ```
-3. Compile os arquivos SCSS para CSS:
-   ```bash
-   sass --watch scss:css
-   ```
-
 ## 📌 Funcionalidades
 
 - **Design Responsivo**: Layout otimizado para dispositivos móveis e desktops.
